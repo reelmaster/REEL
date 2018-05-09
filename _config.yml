@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+# basic option
+  title : REEL
+  author : REEL Master
+  email : 
+  
+# Build settings
+markdown:kramdown
+theme: minima
