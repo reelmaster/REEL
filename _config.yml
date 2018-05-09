@@ -1,8 +1,12 @@
 # basic option
-  title : REEL
-  author : REEL Master
-  email : 
+  title: REEL
+  author: REEL Master
+  email: reelmaster@gmail.com
+  dscription: A lovely wonderful blog
+  twitter_username: reelmaster
+  github_username: reelmaster
   
 # Build settings
-markdown:kramdown
+
+markdown: kramdown
 theme: minima
