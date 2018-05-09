@@ -1,9 +1,9 @@
+## REEL
+
 ---
 layout: post
 title: Blogging Like a Hacker
 ---
-
-## REEL
 
 aaaaaaaYou can use the [editor on GitHub](https://github.com/reelmaster/REEL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
